@@ -1,0 +1,54 @@
+ INFO | 2022-08-02 12:18:38,276 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-08-02 12:18:38,279 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_00_18_38_PM
+ INFO | 2022-08-02 12:18:38,279 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-08-02 12:18:38,515 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:18:38,517 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-08-02 12:18:38,784 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:18:38,785 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 12:18:39,304 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-08-02 12:18:39,306 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-08-02 12:18:39,308 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-08-02 12:18:39,310 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-08-02 12:18:39,312 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-08-02 12:18:39,317 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-08-02 12:18:39,319 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-08-02 12:18:39,321 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-08-02 12:18:39,323 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-08-02 12:18:39,325 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-08-02 12:18:39,326 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Element time out set
+ INFO | 2022-08-02 12:18:39,326 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  ##### Start of Test Case : Donate As A Login User With PayPal #####
+ INFO | 2022-08-02 12:18:39,326 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Test Case Name: Donate_As_A_LoginUser_OneTime_Paypal
+ INFO | 2022-08-02 12:18:39,327 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:18:39,328 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 12:18:39,434 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Test Data Set Name: Donate_As_A_LoginUser_OneTime_Paypal
+ INFO | 2022-08-02 12:18:39,435 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Execution Flag: Execute
+ INFO | 2022-08-02 12:18:39,435 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Test Data Set Name: Donate_As_A_LoginUser_OneTime_Paypal_01
+ INFO | 2022-08-02 12:18:39,436 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Execution Flag: YES
+ INFO | 2022-08-02 12:18:39,436 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Test Data Set Name: 
+ INFO | 2022-08-02 12:18:39,436 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Execution Flag: 
+ INFO | 2022-08-02 12:18:39,452 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:18:46,163 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 12:18:46,164 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:18:46,166 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 12:18:56,267 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-08-02 12:18:56,268 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-08-02 12:18:56,872 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Clicked on WebElement-login button
+ INFO | 2022-08-02 12:18:56,873 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Clicked on WebElement-login button
+ INFO | 2022-08-02 12:18:59,559 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Clicked on WebElement-login to my account
+ INFO | 2022-08-02 12:18:59,561 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Clicked on WebElement-login to my account
+ INFO | 2022-08-02 12:19:01,712 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Clicked on WebElement-login to my account plan
+ INFO | 2022-08-02 12:19:01,716 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Clicked on WebElement-login to my account plan
+ INFO | 2022-08-02 12:19:02,978 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Entered text -> iamsantho@gmail.com
+ INFO | 2022-08-02 12:19:02,978 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Entered text -> iamsantho@gmail.com
+ INFO | 2022-08-02 12:19:03,991 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Entered text -> Bottle@1234
+ INFO | 2022-08-02 12:19:03,992 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Entered text -> Bottle@1234
+ INFO | 2022-08-02 12:19:05,252 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Clicked on WebElement-login with my plan credentials
+ INFO | 2022-08-02 12:19:05,252 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Clicked on WebElement-login with my plan credentials
+ INFO | 2022-08-02 12:19:12,463 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Clicked on WebElement-Donate button
+ INFO | 2022-08-02 12:19:12,464 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-08-02 12:19:17,596 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Clicked on Donate Type WebElement-One Time
+ INFO | 2022-08-02 12:19:17,597 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Clicked on Donate Type WebElement-One Time
+ INFO | 2022-08-02 12:19:17,731 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Clicked on Price Value WebElement-$100
+ INFO | 2022-08-02 12:19:17,732 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Clicked on Price Value WebElement-$100
+ INFO | 2022-08-02 12:19:24,555 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Clicked on Continue My Donation WebElement Not Worked
+ INFO | 2022-08-02 12:19:24,555 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Clicked on Continue My Donation WebElement Not Worked

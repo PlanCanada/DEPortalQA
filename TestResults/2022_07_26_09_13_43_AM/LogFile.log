@@ -1,0 +1,94 @@
+ INFO | 2022-07-26 09:13:43,951 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-26 09:13:43,956 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_09_13_43_AM
+ INFO | 2022-07-26 09:13:43,957 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-26 09:13:44,308 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 09:13:44,310 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-26 09:13:44,537 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 09:13:44,542 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 09:13:44,840 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-26 09:13:44,841 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-26 09:13:44,843 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-26 09:13:44,845 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-26 09:13:44,846 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-26 09:13:44,851 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-26 09:13:44,853 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-26 09:13:44,854 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-26 09:13:44,856 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-26 09:13:44,859 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-26 09:13:44,859 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Element time out set
+ INFO | 2022-07-26 09:13:44,859 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  ##### Start of Test Case : Donate As A Login User #####
+ INFO | 2022-07-26 09:13:44,859 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Test Case Name: Donate_As_A_LoginUser_OneTime
+ INFO | 2022-07-26 09:13:44,861 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 09:13:44,862 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 09:13:44,959 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Test Data Set Name: Donate_As_A_LoginUser_OneTime
+ INFO | 2022-07-26 09:13:44,960 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Execution Flag: Execute
+ INFO | 2022-07-26 09:13:44,960 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Test Data Set Name: Donate_As_A_LoginUser_OneTime_25$_CreditCard_01
+ INFO | 2022-07-26 09:13:44,960 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Execution Flag: YES
+ INFO | 2022-07-26 09:13:44,961 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Test Data Set Name: Donate_As_A_LoginUser_OneTime_50$_CreditCard_02
+ INFO | 2022-07-26 09:13:44,961 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Execution Flag: NO
+ INFO | 2022-07-26 09:13:44,961 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Test Data Set Name: 
+ INFO | 2022-07-26 09:13:44,962 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Execution Flag: 
+ INFO | 2022-07-26 09:13:44,973 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 09:13:48,878 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 09:13:48,881 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 09:13:48,883 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 09:14:19,772 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 09:14:19,773 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 09:14:20,589 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on WebElement-login button
+ INFO | 2022-07-26 09:14:20,590 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on WebElement-login button
+ INFO | 2022-07-26 09:14:44,636 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on WebElement-login to my account
+ INFO | 2022-07-26 09:14:44,637 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on WebElement-login to my account
+ INFO | 2022-07-26 09:14:49,234 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on WebElement-login to my account plan
+ INFO | 2022-07-26 09:14:49,237 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on WebElement-login to my account plan
+ INFO | 2022-07-26 09:14:50,634 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> iamsantho@gmail.com
+ INFO | 2022-07-26 09:14:50,635 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> iamsantho@gmail.com
+ INFO | 2022-07-26 09:14:51,425 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> Bottle@1234
+ INFO | 2022-07-26 09:14:51,426 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> Bottle@1234
+ INFO | 2022-07-26 09:14:52,080 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on WebElement-login with my plan credentials
+ INFO | 2022-07-26 09:14:52,081 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on WebElement-login with my plan credentials
+ INFO | 2022-07-26 09:15:02,556 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on WebElement-Donate button
+ INFO | 2022-07-26 09:15:02,557 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-07-26 09:15:07,709 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-26 09:15:07,710 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-26 09:15:07,836 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on Price Value WebElement-$25
+ INFO | 2022-07-26 09:15:07,837 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on Price Value WebElement-$25
+ INFO | 2022-07-26 09:15:21,120 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on Continue My Donatio WebElement
+ INFO | 2022-07-26 09:15:21,121 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on Continue My Donatio WebElement
+ INFO | 2022-07-26 09:15:22,069 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 09:15:22,070 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 09:15:22,897 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> test
+ INFO | 2022-07-26 09:15:22,898 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> test
+ INFO | 2022-07-26 09:15:23,746 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-26 09:15:23,747 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-26 09:15:24,818 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 09:15:24,819 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 09:15:25,770 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> Toronto
+ INFO | 2022-07-26 09:15:25,772 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-26 09:15:26,092 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-26 09:15:26,093 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-26 09:15:26,962 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> M4P 0B3
+ INFO | 2022-07-26 09:15:26,963 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-26 09:15:27,651 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> 18003871418
+ INFO | 2022-07-26 09:15:27,652 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-07-26 09:15:29,091 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> 4222222222222220
+ INFO | 2022-07-26 09:15:29,092 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-07-26 09:15:30,215 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 09:15:30,216 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 09:15:30,948 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> TestOne
+ INFO | 2022-07-26 09:15:30,948 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-07-26 09:15:31,755 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> 05/25
+ INFO | 2022-07-26 09:15:31,756 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> 05/25
+ INFO | 2022-07-26 09:15:32,493 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Entered text -> 987
+ INFO | 2022-07-26 09:15:32,494 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Entered text -> 987
+ INFO | 2022-07-26 09:15:33,365 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-26 09:15:33,365 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-26 09:15:34,679 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Clicked on WebElement-Donate Now
+ INFO | 2022-07-26 09:15:34,680 | Common.java | 75 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Clicked on WebElement-Donate Now
+ INFO | 2022-07-26 09:15:50,482 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:15:50,485 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:15:50,488 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:16:11,923 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_09_13_43_AM/Results.html
+ INFO | 2022-07-26 09:16:11,923 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_09_13_43_AM/Results.html
+ INFO | 2022-07-26 09:16:11,924 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  ###################################
+ INFO | 2022-07-26 09:16:11,924 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  Script Execution Complete
+ INFO | 2022-07-26 09:16:11,924 | Common.java | 79 | Donate_As_A_LoginUser_OneTime:  ####################################

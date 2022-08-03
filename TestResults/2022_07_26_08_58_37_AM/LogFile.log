@@ -1,0 +1,95 @@
+ INFO | 2022-07-26 08:58:37,850 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-26 08:58:37,856 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_08_58_37_AM
+ INFO | 2022-07-26 08:58:37,857 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-26 08:58:38,227 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 08:58:38,229 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-26 08:58:38,446 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 08:58:38,448 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 08:58:38,760 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-26 08:58:38,762 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-26 08:58:38,763 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-26 08:58:38,766 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-26 08:58:38,768 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-26 08:58:38,774 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-26 08:58:38,776 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-26 08:58:38,777 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-26 08:58:38,779 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-26 08:58:38,783 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-26 08:58:38,783 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Element time out set
+ INFO | 2022-07-26 08:58:38,784 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  ##### Start of Test Case : Donate As A Guest User #####
+ INFO | 2022-07-26 08:58:38,786 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Test Case Name: Donate_As_A_GuestUser_OneTime_SameBillingAddress
+ INFO | 2022-07-26 08:58:38,791 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 08:58:38,795 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 08:58:38,914 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Test Data Set Name: Donate_As_A_GuestUser_OneTime_SameBillingAddress
+ INFO | 2022-07-26 08:58:38,915 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Execution Flag: Execute
+ INFO | 2022-07-26 08:58:38,916 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Test Data Set Name: Donate_As_A_GuestUser_OneTime_SameBillingAddress_01
+ INFO | 2022-07-26 08:58:38,917 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Execution Flag: YES
+ INFO | 2022-07-26 08:58:38,917 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Test Data Set Name: 
+ INFO | 2022-07-26 08:58:38,917 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Execution Flag: 
+ INFO | 2022-07-26 08:58:38,931 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 08:58:42,624 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 08:58:42,626 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 08:58:42,628 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 08:58:51,363 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 08:58:51,364 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 08:59:00,190 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Clicked on WebElement-Donate button
+ INFO | 2022-07-26 08:59:00,190 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-07-26 08:59:05,554 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-26 08:59:05,555 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-26 08:59:05,876 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Clicked on Price Value WebElement-$25
+ INFO | 2022-07-26 08:59:05,877 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on Price Value WebElement-$25
+ INFO | 2022-07-26 08:59:11,848 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Clicked on Continue My Donation WebElement Not Worked
+ INFO | 2022-07-26 08:59:11,849 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on Continue My Donation WebElement Not Worked
+ INFO | 2022-07-26 08:59:20,767 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 08:59:20,768 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 08:59:21,797 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> test
+ INFO | 2022-07-26 08:59:21,797 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> test
+ INFO | 2022-07-26 08:59:22,843 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-26 08:59:22,844 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-26 08:59:23,699 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 08:59:23,700 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 08:59:24,545 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> Toronto
+ INFO | 2022-07-26 08:59:24,546 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-26 08:59:24,944 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-26 08:59:24,945 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-26 08:59:25,801 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> M4P 0B3
+ INFO | 2022-07-26 08:59:25,802 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-26 08:59:26,767 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> 18003871418
+ INFO | 2022-07-26 08:59:26,768 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-07-26 08:59:27,732 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> 4222222222222220
+ INFO | 2022-07-26 08:59:27,732 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-07-26 08:59:28,718 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 08:59:28,719 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 08:59:29,449 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> TestOne
+ INFO | 2022-07-26 08:59:29,450 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-07-26 08:59:30,136 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> 05/25
+ INFO | 2022-07-26 08:59:30,136 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 05/25
+ INFO | 2022-07-26 08:59:30,923 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> 987
+ INFO | 2022-07-26 08:59:30,923 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 987
+ INFO | 2022-07-26 08:59:31,890 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 08:59:31,891 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 08:59:32,921 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 08:59:32,922 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 08:59:33,766 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> Toronto
+ INFO | 2022-07-26 08:59:33,767 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-26 08:59:34,083 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Selected value -Ontario from dropdown->BillingProvince
+ INFO | 2022-07-26 08:59:34,084 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Selected value -Ontario from dropdown->BillingProvince
+ INFO | 2022-07-26 08:59:34,856 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Entered text -> M4P 0B3
+ INFO | 2022-07-26 08:59:34,857 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-26 08:59:35,967 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Clicked on WebElement-Donate Now
+ INFO | 2022-07-26 08:59:35,968 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate Now
+ INFO | 2022-07-26 09:00:06,298 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Success Message is Displayed
+ INFO | 2022-07-26 09:00:06,299 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Success Message is Displayed
+ INFO | 2022-07-26 09:00:06,354 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Thank you For Donation Message is Displayed
+ INFO | 2022-07-26 09:00:06,355 | Common.java | 75 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Thank you For Donation Message is Displayed
+ INFO | 2022-07-26 09:00:08,359 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-07-26 09:01:32,615 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Unable to update the status for TestCase->Donate_As_A_GuestUser_OneTime_SameBillingAddress
+ INFO | 2022-07-26 09:01:32,617 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Unable to update the status for TestCase->Donate_As_A_GuestUser_OneTime_SameBillingAddress
+ INFO | 2022-07-26 09:01:33,193 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:01:33,197 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:01:33,202 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:01:54,611 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_08_58_37_AM/Results.html
+ INFO | 2022-07-26 09:01:54,612 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_08_58_37_AM/Results.html
+ INFO | 2022-07-26 09:01:54,613 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  ###################################
+ INFO | 2022-07-26 09:01:54,613 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  Script Execution Complete
+ INFO | 2022-07-26 09:01:54,614 | Common.java | 79 | Donate_As_A_GuestUser_OneTime_SameBillingAddress:  ####################################

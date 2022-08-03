@@ -1,0 +1,85 @@
+ INFO | 2022-07-26 08:03:41,395 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-26 08:03:41,399 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_08_03_41_AM
+ INFO | 2022-07-26 08:03:41,399 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-26 08:03:41,688 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 08:03:41,689 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-26 08:03:41,885 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 08:03:41,887 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 08:03:42,423 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-26 08:03:42,426 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-26 08:03:42,429 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-26 08:03:42,432 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-26 08:03:42,434 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-26 08:03:42,442 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-26 08:03:42,443 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-26 08:03:42,445 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-26 08:03:42,448 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-26 08:03:42,452 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-26 08:03:42,454 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Element time out set
+ INFO | 2022-07-26 08:03:42,454 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  ##### Start of Test Case : Donate As A Guest User #####
+ INFO | 2022-07-26 08:03:42,454 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Case Name: Donate_As_A_GuestUser_OneTime
+ INFO | 2022-07-26 08:03:42,456 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 08:03:42,458 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 08:03:42,590 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Data Set Name: Donate_As_A_GuestUser_OneTime
+ INFO | 2022-07-26 08:03:42,591 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Execution Flag: Execute
+ INFO | 2022-07-26 08:03:42,591 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Data Set Name: Donate_As_A_GuestUser_OneTime_25$_CreditCard_01
+ INFO | 2022-07-26 08:03:42,592 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Execution Flag: YES
+ INFO | 2022-07-26 08:03:42,592 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Data Set Name: Donate_As_A_GuestUser_OneTime_50$_CreditCard_02
+ INFO | 2022-07-26 08:03:42,592 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Execution Flag: NO
+ INFO | 2022-07-26 08:03:42,593 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Data Set Name: 
+ INFO | 2022-07-26 08:03:42,593 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Execution Flag: 
+ INFO | 2022-07-26 08:03:42,622 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 08:03:47,705 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 08:03:47,708 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 08:03:47,712 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 08:04:16,455 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 08:04:16,455 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 08:04:52,279 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on WebElement-Donate button
+ INFO | 2022-07-26 08:04:52,280 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-07-26 08:04:57,382 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-26 08:04:57,383 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-26 08:04:57,480 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on Price Value WebElement-$25
+ INFO | 2022-07-26 08:04:57,481 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on Price Value WebElement-$25
+ INFO | 2022-07-26 08:05:08,451 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on Continue My Donatio WebElement
+ INFO | 2022-07-26 08:05:08,452 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on Continue My Donatio WebElement
+ INFO | 2022-07-26 08:05:14,408 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 08:05:14,409 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 08:05:15,167 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> test
+ INFO | 2022-07-26 08:05:15,168 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> test
+ INFO | 2022-07-26 08:05:16,144 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-26 08:05:16,145 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-26 08:05:16,959 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 08:05:16,959 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 08:05:17,733 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Toronto
+ INFO | 2022-07-26 08:05:17,733 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-26 08:05:18,078 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-26 08:05:18,079 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-26 08:05:18,892 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> M4P 0B3
+ INFO | 2022-07-26 08:05:18,893 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-26 08:05:19,615 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 18003871418
+ INFO | 2022-07-26 08:05:19,617 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-07-26 08:05:20,892 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 4222222222222220
+ INFO | 2022-07-26 08:05:20,892 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-07-26 08:05:21,772 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 08:05:21,772 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 08:05:22,540 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> TestOne
+ INFO | 2022-07-26 08:05:22,541 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-07-26 08:05:23,297 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 05/25
+ INFO | 2022-07-26 08:05:23,297 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 05/25
+ INFO | 2022-07-26 08:05:24,269 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 987
+ INFO | 2022-07-26 08:05:24,270 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 987
+ INFO | 2022-07-26 08:05:25,107 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-26 08:05:25,107 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-26 08:05:26,884 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on WebElement-Donate Now
+ INFO | 2022-07-26 08:05:26,885 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on WebElement-Donate Now
+ INFO | 2022-07-26 08:05:29,027 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-07-26 08:06:53,667 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Unable to update the status for TestCase->Donate_As_A_GuestUser_OneTime
+ INFO | 2022-07-26 08:06:53,669 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Unable to update the status for TestCase->Donate_As_A_GuestUser_OneTime
+ INFO | 2022-07-26 08:06:58,699 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 08:06:58,726 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 08:06:58,805 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 08:07:20,686 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_08_03_41_AM/Results.html
+ INFO | 2022-07-26 08:07:20,687 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_08_03_41_AM/Results.html
+ INFO | 2022-07-26 08:07:20,688 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  ###################################
+ INFO | 2022-07-26 08:07:20,688 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Script Execution Complete
+ INFO | 2022-07-26 08:07:20,689 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  ####################################

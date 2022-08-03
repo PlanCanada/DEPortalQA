@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="TestCases.TestCases">
+        <methods>
+          <include name="start"/>
+          <include name="Donate_As_A_LoginUser_OneTime_SameBillingAddress"/>
+          <include name="Donate_As_A_LoginUser_OneTime_Paypal"/>
+          <include name="Donate_As_A_GuestUser_OneTime_Paypal"/>
+          <include name="Donate_As_A_GuestUser_OneTime_SameBillingAddress"/>
+          <include name="Donate_As_A_LoginUser_OneTime"/>
+          <include name="Donate_As_A_GuestUser_Monthly"/>
+          <include name="Donate_As_A_GuestUser_OneTime"/>
+          <include name="GOH_Single_Product_Mail_Card"/>
+        </methods>
+      </class> <!-- TestCases.TestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

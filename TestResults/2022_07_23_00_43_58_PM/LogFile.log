@@ -1,0 +1,169 @@
+ INFO | 2022-07-23 12:43:58,689 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-23 12:43:58,695 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_23_00_43_58_PM
+ INFO | 2022-07-23 12:43:58,696 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-23 12:43:59,140 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-23 12:43:59,142 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-23 12:43:59,371 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-23 12:43:59,372 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-23 12:43:59,686 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-23 12:43:59,688 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-23 12:43:59,689 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-23 12:43:59,691 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-23 12:43:59,693 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-23 12:43:59,700 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-23 12:43:59,702 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-23 12:43:59,703 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-23 12:43:59,704 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-23 12:43:59,706 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-23 12:43:59,706 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Element time out set
+ INFO | 2022-07-23 12:43:59,706 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  ##### Start of Test Case : Donate As A Guest User #####
+ INFO | 2022-07-23 12:43:59,706 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Case Name: Donate_As_A_GuestUser_OneTime
+ INFO | 2022-07-23 12:43:59,707 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-23 12:43:59,708 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-23 12:43:59,816 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Data Set Name: Donate_As_A_GuestUser_OneTime
+ INFO | 2022-07-23 12:43:59,819 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Execution Flag: Execute
+ INFO | 2022-07-23 12:43:59,820 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Data Set Name: Donate_As_A_GuestUser_OneTime_25$_CreditCard_01
+ INFO | 2022-07-23 12:43:59,820 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Execution Flag: YES
+ INFO | 2022-07-23 12:43:59,821 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Data Set Name: Donate_As_A_GuestUser_OneTime_50$_CreditCard_02
+ INFO | 2022-07-23 12:43:59,822 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Execution Flag: YES
+ INFO | 2022-07-23 12:43:59,823 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Test Data Set Name: 
+ INFO | 2022-07-23 12:43:59,823 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Execution Flag: 
+ INFO | 2022-07-23 12:43:59,836 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-23 12:44:04,549 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-23 12:44:04,553 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-23 12:44:04,591 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-23 12:44:21,260 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-23 12:44:21,260 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-23 12:44:29,562 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on WebElement-Donate button
+ INFO | 2022-07-23 12:44:29,562 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-07-23 12:44:34,709 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-23 12:44:34,711 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-23 12:44:34,828 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on Price Value WebElement-$25
+ INFO | 2022-07-23 12:44:34,828 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on Price Value WebElement-$25
+ERROR | 2022-07-23 12:44:41,920 | Common.java | 87 | Donate_As_A_GuestUser_OneTime:  Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57003}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 73f89c81535be8c6ae6ac5f3c76427d9
+ERROR | 2022-07-23 12:44:41,922 | Common.java | 87 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57003}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 73f89c81535be8c6ae6ac5f3c76427d9
+ INFO | 2022-07-23 12:44:41,926 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-23 12:44:54,784 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-23 12:44:54,786 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:44:54,787 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:44:54,789 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:44:54,791 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:00,325 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-23 12:45:00,327 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-23 12:45:01,024 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> test
+ INFO | 2022-07-23 12:45:01,024 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> test
+ INFO | 2022-07-23 12:45:01,621 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-23 12:45:01,622 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-23 12:45:02,165 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-23 12:45:02,165 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-23 12:45:02,977 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Toronto
+ INFO | 2022-07-23 12:45:02,978 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-23 12:45:03,332 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-23 12:45:03,332 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-23 12:45:04,068 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> M4P 0B3
+ INFO | 2022-07-23 12:45:04,068 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-23 12:45:04,549 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 18003871418
+ INFO | 2022-07-23 12:45:04,550 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-07-23 12:45:05,116 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 41111111111111
+ INFO | 2022-07-23 12:45:05,117 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 41111111111111
+ INFO | 2022-07-23 12:45:05,700 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-23 12:45:05,700 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-23 12:45:06,164 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> TestOne
+ INFO | 2022-07-23 12:45:06,164 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-07-23 12:45:06,655 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 20/25
+ INFO | 2022-07-23 12:45:06,656 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 20/25
+ INFO | 2022-07-23 12:45:07,215 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 987
+ INFO | 2022-07-23 12:45:07,216 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 987
+ INFO | 2022-07-23 12:45:07,779 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-23 12:45:07,779 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-23 12:45:07,780 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-23 12:45:07,781 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ERROR | 2022-07-23 12:45:15,152 | Common.java | 87 | Donate_As_A_GuestUser_OneTime:  Element is not visible after waiting for 0 Seconds, : [[ChromeDriver: chrome on WINDOWS (73f89c81535be8c6ae6ac5f3c76427d9)] -> xpath: //div[@class='cta-button']//a[text()='Donate']]
+ERROR | 2022-07-23 12:45:15,152 | Common.java | 87 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Element is not visible after waiting for 0 Seconds, : [[ChromeDriver: chrome on WINDOWS (73f89c81535be8c6ae6ac5f3c76427d9)] -> xpath: //div[@class='cta-button']//a[text()='Donate']]
+ INFO | 2022-07-23 12:45:15,154 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-23 12:45:21,636 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-23 12:45:21,637 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:21,639 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:21,640 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:21,642 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:25,945 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on WebElement-Donate button
+ INFO | 2022-07-23 12:45:25,945 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-07-23 12:45:31,064 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-23 12:45:31,065 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-23 12:45:31,156 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on Price Value WebElement-$50
+ INFO | 2022-07-23 12:45:31,157 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on Price Value WebElement-$50
+ERROR | 2022-07-23 12:45:36,886 | Common.java | 87 | Donate_As_A_GuestUser_OneTime:  Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57003}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 73f89c81535be8c6ae6ac5f3c76427d9
+ERROR | 2022-07-23 12:45:36,887 | Common.java | 87 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57003}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 73f89c81535be8c6ae6ac5f3c76427d9
+ INFO | 2022-07-23 12:45:36,896 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-23 12:45:47,359 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-23 12:45:47,361 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:47,363 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:47,364 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:47,366 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-23 12:45:52,865 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-23 12:45:52,866 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-23 12:45:53,324 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> test
+ INFO | 2022-07-23 12:45:53,325 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> test
+ INFO | 2022-07-23 12:45:54,030 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-23 12:45:54,031 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-23 12:45:54,766 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-23 12:45:54,767 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-23 12:45:55,265 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Toronto
+ INFO | 2022-07-23 12:45:55,266 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-23 12:45:55,511 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-23 12:45:55,511 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-23 12:45:56,037 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> M4P 0B3
+ INFO | 2022-07-23 12:45:56,038 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-23 12:45:56,541 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 18003871418
+ INFO | 2022-07-23 12:45:56,543 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-07-23 12:45:57,094 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 41111111111111
+ INFO | 2022-07-23 12:45:57,095 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 41111111111111
+ INFO | 2022-07-23 12:45:57,660 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-23 12:45:57,661 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-23 12:45:58,120 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> TestOne
+ INFO | 2022-07-23 12:45:58,121 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-07-23 12:45:58,578 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 20/25
+ INFO | 2022-07-23 12:45:58,578 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 20/25
+ INFO | 2022-07-23 12:45:59,128 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Entered text -> 987
+ INFO | 2022-07-23 12:45:59,129 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Entered text -> 987
+ INFO | 2022-07-23 12:45:59,674 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-23 12:45:59,674 | Common.java | 75 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-23 12:46:01,999 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-07-23 12:47:26,273 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Unable to update the status for TestCase->Donate_As_A_GuestUser_OneTime
+ INFO | 2022-07-23 12:47:26,274 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Unable to update the status for TestCase->Donate_As_A_GuestUser_OneTime
+ INFO | 2022-07-23 12:47:27,615 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-23 12:47:27,618 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-23 12:47:27,626 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-23 12:47:49,051 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_23_00_43_58_PM/Results.html
+ INFO | 2022-07-23 12:47:49,052 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_23_00_43_58_PM/Results.html
+ INFO | 2022-07-23 12:47:49,053 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  ###################################
+ INFO | 2022-07-23 12:47:49,053 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  Script Execution Complete
+ INFO | 2022-07-23 12:47:49,053 | Common.java | 79 | Donate_As_A_GuestUser_OneTime:  ####################################

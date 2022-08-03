@@ -1,0 +1,338 @@
+ INFO | 2022-07-26 07:15:49,435 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-26 07:15:49,440 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_07_15_49_AM
+ INFO | 2022-07-26 07:15:49,440 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-26 07:15:49,747 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 07:15:49,748 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-26 07:15:49,931 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 07:15:49,933 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 07:15:50,169 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-26 07:15:50,170 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-26 07:15:50,172 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-26 07:15:50,173 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-26 07:15:50,174 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-26 07:15:50,178 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-26 07:15:50,179 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-26 07:15:50,181 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-26 07:15:50,182 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-26 07:15:50,185 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-26 07:15:50,185 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Element time out set
+ INFO | 2022-07-26 07:15:50,185 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  ##### Start of Test Case : Donate As A Guest User #####
+ INFO | 2022-07-26 07:15:50,185 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Test Case Name: Donate_As_A_GuestUser_Monthly
+ INFO | 2022-07-26 07:15:50,186 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 07:15:50,187 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 07:15:50,265 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Test Data Set Name: Donate_As_A_GuestUser_Monthly
+ INFO | 2022-07-26 07:15:50,266 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Execution Flag: Execute
+ INFO | 2022-07-26 07:15:50,266 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Test Data Set Name: Donate_As_A_GuestUser_Monthly_01
+ INFO | 2022-07-26 07:15:50,266 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Execution Flag: YES
+ INFO | 2022-07-26 07:15:50,267 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Test Data Set Name: 
+ INFO | 2022-07-26 07:15:50,267 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Execution Flag: 
+ INFO | 2022-07-26 07:15:50,280 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:15:53,773 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 07:15:53,777 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:15:53,781 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 07:16:06,360 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 07:16:06,361 | Common.java | 75 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 07:16:16,617 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Clicked on WebElement-Donate button
+ INFO | 2022-07-26 07:16:16,618 | Common.java | 75 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-07-26 07:16:22,666 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Clicked on Donate Type WebElement-Monthly
+ INFO | 2022-07-26 07:16:22,667 | Common.java | 75 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Clicked on Donate Type WebElement-Monthly
+ERROR | 2022-07-26 07:16:22,800 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Clicked on Price Value WebElement is not displayed-$25
+ERROR | 2022-07-26 07:16:22,801 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Clicked on Price Value WebElement is not displayed-$25
+ INFO | 2022-07-26 07:16:22,803 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:16:41,481 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:16:41,483 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:16:41,485 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:16:41,486 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:16:41,488 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:16:46,983 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Clicked on Continue My Donatio WebElement
+ INFO | 2022-07-26 07:16:46,984 | Common.java | 75 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Clicked on Continue My Donatio WebElement
+ERROR | 2022-07-26 07:16:52,024 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : null
+ERROR | 2022-07-26 07:16:52,025 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : null
+ INFO | 2022-07-26 07:16:52,030 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-07-26 07:16:52,049 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : org.openqa.selenium.WebDriverException: unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9d544fac0ced2daf5b1b20c07daf8ce
+ERROR | 2022-07-26 07:16:52,063 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Unable to enter text in the text field->Test_Automation_GuestUser
+ERROR | 2022-07-26 07:16:52,063 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Unable to enter text in the text field->Test_Automation_GuestUser
+ INFO | 2022-07-26 07:16:52,066 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-07-26 07:16:52,079 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : org.openqa.selenium.WebDriverException: unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9d544fac0ced2daf5b1b20c07daf8ce
+ INFO | 2022-07-26 07:16:52,108 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:16:52,110 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:16:52,113 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:16:52,115 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:16:52,117 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:16:52,213 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCILastName']'
+ERROR | 2022-07-26 07:16:52,213 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCILastName']'
+ INFO | 2022-07-26 07:16:52,215 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:17:08,279 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:17:08,281 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:08,283 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:08,284 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:08,286 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:17:10,517 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->test
+ERROR | 2022-07-26 07:17:10,518 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->test
+ INFO | 2022-07-26 07:17:10,520 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:17:26,224 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:17:26,226 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:26,228 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:26,229 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:26,231 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:17:26,297 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCIFormModel_Email']'
+ERROR | 2022-07-26 07:17:26,298 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCIFormModel_Email']'
+ INFO | 2022-07-26 07:17:26,299 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:17:42,228 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:17:42,230 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:42,232 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:42,235 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:42,237 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:17:44,438 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->JasSingh@planCanada.ca
+ERROR | 2022-07-26 07:17:44,439 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->JasSingh@planCanada.ca
+ INFO | 2022-07-26 07:17:44,442 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:17:59,785 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:17:59,787 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:59,789 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:59,791 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:17:59,793 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:17:59,863 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCIAddress']'
+ERROR | 2022-07-26 07:17:59,863 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCIAddress']'
+ INFO | 2022-07-26 07:17:59,866 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:18:15,300 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:18:15,302 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:15,304 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:15,306 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:15,310 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:18:17,490 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->245 Eglinton Ave E
+ERROR | 2022-07-26 07:18:17,491 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->245 Eglinton Ave E
+ INFO | 2022-07-26 07:18:17,492 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:18:33,273 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:18:33,275 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:33,278 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:33,279 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:33,281 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:18:33,361 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCICity']'
+ERROR | 2022-07-26 07:18:33,361 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCICity']'
+ INFO | 2022-07-26 07:18:33,363 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:18:48,809 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:18:48,811 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:48,814 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:48,816 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:18:48,819 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:18:51,034 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->Toronto
+ERROR | 2022-07-26 07:18:51,035 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->Toronto
+ INFO | 2022-07-26 07:18:51,037 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:19:06,480 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:19:06,482 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:06,485 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:06,487 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:06,490 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:19:06,535 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Unable to select value from the dropdown no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='VPCIProvince']"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9d544fac0ced2daf5b1b20c07daf8ce
+*** Element info: {Using=xpath, value=//select[@id='VPCIProvince']}
+ERROR | 2022-07-26 07:19:06,536 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Unable to select value from the dropdown no such element: Unable to locate element: {"method":"xpath","selector":"//select[@id='VPCIProvince']"}
+  (Session info: chrome=103.0.5060.134)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9d544fac0ced2daf5b1b20c07daf8ce
+*** Element info: {Using=xpath, value=//select[@id='VPCIProvince']}
+ INFO | 2022-07-26 07:19:06,539 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:19:22,112 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:19:22,114 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:22,116 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:22,118 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:22,120 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:19:22,203 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCIPostalCode']'
+ERROR | 2022-07-26 07:19:22,204 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCIPostalCode']'
+ INFO | 2022-07-26 07:19:22,205 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:19:37,763 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:19:37,765 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:37,766 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:37,768 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:37,770 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:19:40,001 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->M4P 0B3
+ERROR | 2022-07-26 07:19:40,002 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->M4P 0B3
+ INFO | 2022-07-26 07:19:40,004 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:19:55,199 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:19:55,202 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:55,203 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:55,204 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:19:55,207 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:19:55,294 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCIPhoneOptional']'
+ERROR | 2022-07-26 07:19:55,294 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCIPhoneOptional']'
+ INFO | 2022-07-26 07:19:55,296 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:20:11,037 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:20:11,039 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:11,041 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:11,042 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:11,044 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:20:13,215 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->18003871418
+ERROR | 2022-07-26 07:20:13,215 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->18003871418
+ INFO | 2022-07-26 07:20:13,218 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:20:28,620 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:20:28,622 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:28,625 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:28,626 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:28,627 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:20:28,706 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='CardNumber']'
+ERROR | 2022-07-26 07:20:28,707 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='CardNumber']'
+ INFO | 2022-07-26 07:20:28,709 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:20:44,282 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:20:44,283 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:44,285 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:44,287 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:20:44,289 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:20:46,493 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->41111111111111
+ERROR | 2022-07-26 07:20:46,494 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->41111111111111
+ INFO | 2022-07-26 07:20:46,495 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:21:02,362 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:21:02,364 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:02,366 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:02,368 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:02,371 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:21:02,435 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ChFirstName']'
+ERROR | 2022-07-26 07:21:02,435 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ChFirstName']'
+ INFO | 2022-07-26 07:21:02,437 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:21:17,757 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:21:17,759 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:17,761 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:17,764 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:17,766 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:21:19,984 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->Test_Automation_GuestUser
+ERROR | 2022-07-26 07:21:19,985 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->Test_Automation_GuestUser
+ INFO | 2022-07-26 07:21:19,988 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:21:35,483 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:21:35,486 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:35,488 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:35,490 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:35,493 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:21:35,588 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ChLastName']'
+ERROR | 2022-07-26 07:21:35,589 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ChLastName']'
+ INFO | 2022-07-26 07:21:35,591 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:21:51,603 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:21:51,604 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:51,607 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:51,608 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:21:51,610 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:21:53,830 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->TestOne
+ERROR | 2022-07-26 07:21:53,831 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->TestOne
+ INFO | 2022-07-26 07:21:53,835 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:22:09,350 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:22:09,351 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:09,353 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:09,355 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:09,356 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:22:09,428 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ExpirationDate']'
+ERROR | 2022-07-26 07:22:09,429 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='ExpirationDate']'
+ INFO | 2022-07-26 07:22:09,431 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:22:26,167 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:22:26,169 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:26,170 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:26,172 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:26,174 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:22:28,382 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->20/25
+ERROR | 2022-07-26 07:22:28,382 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->20/25
+ INFO | 2022-07-26 07:22:28,384 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:22:43,988 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:22:43,989 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:43,991 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:43,992 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:43,994 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:22:44,060 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='SecurityCode']'
+ERROR | 2022-07-26 07:22:44,061 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='SecurityCode']'
+ INFO | 2022-07-26 07:22:44,063 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:22:59,473 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:22:59,475 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:59,478 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:59,480 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:22:59,482 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:23:01,799 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not displayed, Unable to enter text->987
+ERROR | 2022-07-26 07:23:01,799 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not displayed, Unable to enter text->987
+ INFO | 2022-07-26 07:23:01,800 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:23:18,012 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-26 07:23:18,013 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:23:18,014 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:23:18,016 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-26 07:23:18,018 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-07-26 07:23:18,109 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //label[text()='Same as contact address']'
+ERROR | 2022-07-26 07:23:18,110 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //label[text()='Same as contact address']'
+ INFO | 2022-07-26 07:23:18,112 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-07-26 07:23:40,688 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9d544fac0ced2daf5b1b20c07daf8ce
+ERROR | 2022-07-26 07:23:52,869 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Uanble to click on Element-Same As contact Address, Exception is->chrome not reachable
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9d544fac0ced2daf5b1b20c07daf8ce
+ERROR | 2022-07-26 07:23:52,870 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : Uanble to click on Element-Same As contact Address, Exception is->chrome not reachable
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9d544fac0ced2daf5b1b20c07daf8ce
+ INFO | 2022-07-26 07:23:52,872 | Common.java | 79 | Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-07-26 07:24:05,028 | Common.java | 87 | Donate_As_A_GuestUser_Monthly:  Report step generation success : org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d9d544fac0ced2daf5b1b20c07daf8ce
+ INFO | 2022-07-26 07:24:17,265 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-26 07:24:17,267 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-26 07:24:17,268 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-26 07:24:17,270 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-26 07:24:17,272 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-26 07:24:17,273 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-26 07:24:17,275 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-26 07:24:17,277 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-26 07:24:17,278 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-26 07:24:17,280 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-26 07:24:17,280 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Element time out set
+ INFO | 2022-07-26 07:24:17,281 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  ##### Start of Test Case : Donate As A Login User With PayPal #####
+ INFO | 2022-07-26 07:24:17,281 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Test Case Name: Donate_As_A_LoginUser_OneTime_Paypal
+ INFO | 2022-07-26 07:24:17,282 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 07:24:17,284 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 07:24:17,388 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Test Data Set Name: Donate_As_A_LoginUser_OneTime_Paypal
+ INFO | 2022-07-26 07:24:17,388 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Execution Flag: Execute
+ INFO | 2022-07-26 07:24:17,388 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Test Data Set Name: Donate_As_A_LoginUser_OneTime_Paypal_01
+ INFO | 2022-07-26 07:24:17,388 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Execution Flag: YES
+ INFO | 2022-07-26 07:24:17,388 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Test Data Set Name: 
+ INFO | 2022-07-26 07:24:17,388 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Execution Flag: 
+ INFO | 2022-07-26 07:24:17,389 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:24:19,681 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 07:24:19,682 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 07:24:19,684 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 07:24:24,603 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 07:24:24,604 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 07:24:24,606 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 07:24:45,845 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_07_15_49_AM/Results.html
+ INFO | 2022-07-26 07:24:45,845 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_07_15_49_AM/Results.html
+ INFO | 2022-07-26 07:24:45,845 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  ###################################
+ INFO | 2022-07-26 07:24:45,846 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  Script Execution Complete
+ INFO | 2022-07-26 07:24:45,846 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_Paypal:  ####################################

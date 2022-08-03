@@ -1,0 +1,93 @@
+ INFO | 2022-08-02 13:13:10,567 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-08-02 13:13:10,571 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_01_13_10_PM
+ INFO | 2022-08-02 13:13:10,571 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-08-02 13:13:10,820 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 13:13:10,821 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-08-02 13:13:10,993 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 13:13:10,994 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 13:13:11,233 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-08-02 13:13:11,234 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-08-02 13:13:11,235 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-08-02 13:13:11,236 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-08-02 13:13:11,238 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-08-02 13:13:11,242 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-08-02 13:13:11,243 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-08-02 13:13:11,245 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-08-02 13:13:11,246 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-08-02 13:13:11,248 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-08-02 13:13:11,248 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Element time out set
+ INFO | 2022-08-02 13:13:11,248 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  ##### Start of Test Case : Plan For Children Fund Donate As A Login User Monthly #####
+ INFO | 2022-08-02 13:13:11,248 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Case Name: PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress
+ INFO | 2022-08-02 13:13:11,250 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 13:13:11,251 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 13:13:11,334 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress
+ INFO | 2022-08-02 13:13:11,335 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: Execute
+ INFO | 2022-08-02 13:13:11,336 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress_01
+ INFO | 2022-08-02 13:13:11,336 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: YES
+ INFO | 2022-08-02 13:13:11,336 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: 
+ INFO | 2022-08-02 13:13:11,337 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: 
+ INFO | 2022-08-02 13:13:11,346 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 13:13:16,039 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 13:13:16,041 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 13:13:16,042 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 13:13:43,133 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-08-02 13:13:43,134 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-08-02 13:13:43,616 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login button
+ INFO | 2022-08-02 13:13:43,616 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login button
+ INFO | 2022-08-02 13:14:07,128 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login to my account
+ INFO | 2022-08-02 13:14:07,129 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login to my account
+ INFO | 2022-08-02 13:14:09,281 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login to my account plan
+ INFO | 2022-08-02 13:14:09,283 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login to my account plan
+ INFO | 2022-08-02 13:14:10,236 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> iamsantho@gmail.com
+ INFO | 2022-08-02 13:14:10,236 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> iamsantho@gmail.com
+ INFO | 2022-08-02 13:14:10,614 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Bottle@1234
+ INFO | 2022-08-02 13:14:10,615 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Bottle@1234
+ INFO | 2022-08-02 13:14:10,979 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login with my plan credentials
+ INFO | 2022-08-02 13:14:10,979 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login with my plan credentials
+ INFO | 2022-08-02 13:14:37,518 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-Donate button
+ INFO | 2022-08-02 13:14:37,519 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-08-02 13:14:43,906 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on Donate Type WebElement is not displayed-Plan for Children Fund
+ INFO | 2022-08-02 13:14:43,906 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on Donate Type WebElement is not displayed-Plan for Children Fund
+ INFO | 2022-08-02 13:14:49,362 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on Price Value WebElement-$25
+ INFO | 2022-08-02 13:14:49,363 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on Price Value WebElement-$25
+ INFO | 2022-08-02 13:14:49,819 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-08-02 13:14:49,820 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-08-02 13:14:50,275 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> test
+ INFO | 2022-08-02 13:14:50,276 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> test
+ INFO | 2022-08-02 13:14:50,776 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-08-02 13:14:50,776 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-08-02 13:14:51,285 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-08-02 13:14:51,285 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-08-02 13:14:51,778 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Toronto
+ INFO | 2022-08-02 13:14:51,778 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-08-02 13:14:52,041 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-08-02 13:14:52,042 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-08-02 13:14:52,552 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> M4P 0B3
+ INFO | 2022-08-02 13:14:52,552 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-08-02 13:14:53,022 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 18003871418
+ INFO | 2022-08-02 13:14:53,022 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-08-02 13:14:53,542 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 4222222222222220
+ INFO | 2022-08-02 13:14:53,542 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-08-02 13:14:54,098 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-08-02 13:14:54,098 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-08-02 13:14:54,572 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> TestOne
+ INFO | 2022-08-02 13:14:54,573 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-08-02 13:14:55,070 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 05/25
+ INFO | 2022-08-02 13:14:55,070 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 05/25
+ INFO | 2022-08-02 13:14:55,507 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 987
+ INFO | 2022-08-02 13:14:55,508 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 987
+ INFO | 2022-08-02 13:14:56,023 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-08-02 13:14:56,024 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-08-02 13:14:56,916 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-Donate Now
+ INFO | 2022-08-02 13:14:56,916 | Common.java | 75 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate Now
+ INFO | 2022-08-02 13:15:28,462 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-08-02 13:16:52,677 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Unable to update the status for TestCase->PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress
+ INFO | 2022-08-02 13:16:52,677 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Unable to update the status for TestCase->PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress
+ INFO | 2022-08-02 13:16:52,965 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 13:16:52,966 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 13:16:52,967 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 13:17:14,152 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_01_13_10_PM/Results.html
+ INFO | 2022-08-02 13:17:14,152 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_01_13_10_PM/Results.html
+ INFO | 2022-08-02 13:17:14,152 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  ###################################
+ INFO | 2022-08-02 13:17:14,152 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Script Execution Complete
+ INFO | 2022-08-02 13:17:14,152 | Common.java | 79 | PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  ####################################

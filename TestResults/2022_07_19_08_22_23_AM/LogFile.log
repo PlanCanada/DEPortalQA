@@ -1,0 +1,81 @@
+ INFO | 2022-07-19 08:22:23,212 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-19 08:22:23,215 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_19_08_22_23_AM
+ INFO | 2022-07-19 08:22:23,215 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-19 08:22:23,362 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:22:23,362 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-19 08:22:23,504 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:22:23,504 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-19 08:22:23,705 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-19 08:22:23,705 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-19 08:22:23,706 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-19 08:22:23,706 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-19 08:22:23,707 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-19 08:22:23,709 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-19 08:22:23,710 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-19 08:22:23,710 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-19 08:22:23,711 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-19 08:22:23,713 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-19 08:22:23,713 | Common.java | 79 | Donate_As_A_GuestUser:  Element time out set
+ INFO | 2022-07-19 08:22:23,713 | Common.java | 79 | Donate_As_A_GuestUser:  ##### Start of Test Case : Donate As A Guest User #####
+ INFO | 2022-07-19 08:22:23,713 | Common.java | 79 | Donate_As_A_GuestUser:  Test Case Name: Donate_As_A_GuestUser
+ INFO | 2022-07-19 08:22:23,714 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:22:23,715 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-19 08:22:23,743 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser
+ INFO | 2022-07-19 08:22:23,743 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: Execute
+ INFO | 2022-07-19 08:22:23,744 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser_01
+ INFO | 2022-07-19 08:22:23,744 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-07-19 08:22:23,744 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser_02
+ INFO | 2022-07-19 08:22:23,745 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: NO
+ INFO | 2022-07-19 08:22:23,745 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: 
+ INFO | 2022-07-19 08:22:23,745 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: 
+ INFO | 2022-07-19 08:22:23,751 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-19 08:22:25,659 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-19 08:22:25,660 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-19 08:22:25,660 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-19 08:22:38,849 | Common.java | 79 | Donate_As_A_GuestUser:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-19 08:22:38,850 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-19 08:22:43,328 | Common.java | 79 | Donate_As_A_GuestUser:  Clicked on WebElement-Donate button
+ INFO | 2022-07-19 08:22:43,328 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-07-19 08:22:43,454 | Common.java | 79 | Donate_As_A_GuestUser:  Clicked on WebElement-One Time
+ INFO | 2022-07-19 08:22:43,455 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Clicked on WebElement-One Time
+ INFO | 2022-07-19 08:22:48,607 | Common.java | 79 | Donate_As_A_GuestUser:  Clicked on WebElement-Price $25
+ INFO | 2022-07-19 08:22:48,607 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Clicked on WebElement-Price $25
+ INFO | 2022-07-19 08:22:56,014 | Common.java | 79 | Donate_As_A_GuestUser:  Clicked on WebElement-Continue My Donation
+ INFO | 2022-07-19 08:22:56,014 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Clicked on WebElement-Continue My Donation
+ INFO | 2022-07-19 08:22:56,321 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> test
+ INFO | 2022-07-19 08:22:56,321 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> test
+ INFO | 2022-07-19 08:22:56,770 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-19 08:22:56,770 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-19 08:22:57,071 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-19 08:22:57,071 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-19 08:22:57,332 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> Toronto
+ INFO | 2022-07-19 08:22:57,333 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-19 08:22:57,458 | Common.java | 79 | Donate_As_A_GuestUser:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-19 08:22:57,458 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-19 08:22:57,749 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> M4P 0B3
+ INFO | 2022-07-19 08:22:57,749 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-19 08:22:58,018 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> 18003871418
+ INFO | 2022-07-19 08:22:58,019 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-07-19 08:22:58,309 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> 41111111111111
+ INFO | 2022-07-19 08:22:58,310 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> 41111111111111
+ INFO | 2022-07-19 08:22:58,654 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-19 08:22:58,654 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-19 08:22:58,948 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> TestOne
+ INFO | 2022-07-19 08:22:58,948 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-07-19 08:22:59,221 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> 20/25
+ INFO | 2022-07-19 08:22:59,222 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> 20/25
+ INFO | 2022-07-19 08:22:59,484 | Common.java | 79 | Donate_As_A_GuestUser:  Entered text -> 987
+ INFO | 2022-07-19 08:22:59,484 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Entered text -> 987
+ INFO | 2022-07-19 08:22:59,684 | Common.java | 79 | Donate_As_A_GuestUser:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-19 08:22:59,685 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-07-19 08:23:00,728 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-07-19 08:24:25,042 | Common.java | 79 | Donate_As_A_GuestUser:  Unable to update the status for TestCase->Donate_As_A_GuestUser
+ INFO | 2022-07-19 08:24:25,043 | Common.java | 79 | Donate_As_A_GuestUser:  Report step generation success : Unable to update the status for TestCase->Donate_As_A_GuestUser
+ INFO | 2022-07-19 08:24:25,351 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-19 08:24:25,351 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-19 08:24:25,352 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-19 08:24:46,452 | Common.java | 79 | Donate_As_A_GuestUser:  Unable to attach the file to TestLink in following path->C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_19_08_22_23_AM/Results.html
+ INFO | 2022-07-19 08:24:46,452 | Common.java | 79 | Donate_As_A_GuestUser:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_19_08_22_23_AM/Results.html
+ INFO | 2022-07-19 08:24:46,453 | Common.java | 79 | Donate_As_A_GuestUser:  ###################################
+ INFO | 2022-07-19 08:24:46,453 | Common.java | 79 | Donate_As_A_GuestUser:  Script Execution Complete
+ INFO | 2022-07-19 08:24:46,454 | Common.java | 79 | Donate_As_A_GuestUser:  ####################################

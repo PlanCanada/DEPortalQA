@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite configfailurepolicy="continue" name="Suite" parallel="none">
+  <test name="Test" preserve-order="true">
+    <classes>
+      <class name="TestCases.TestCases"/>
+      <methods>
+        <exclude name="Donate_As_A_GuestUser_OneTime"/>
+        <exclude name="Donate_As_A_GuestUser_Monthly"/>
+        <exclude name="Donate_As_A_GuestUser_OneTime_SameBillingAddress"/>
+        <exclude name="Donate_As_A_GuestUser_OneTime_Paypal"/>
+        <exclude name="Donate_As_A_LoginUser_OneTime"/>
+        <exclude name="Donate_As_A_LoginUser_OneTime_SameBillingAddress"/>
+        <exclude name="Donate_As_A_LoginUser_OneTime_Paypal"/>
+        <exclude name="Because_I_Am_Girl_Donate_As_A_GuestUser_Monthly_SameBillingAddress"/>
+        <exclude name="Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress"/>
+        <exclude name="PlanForChildrenFund_Donate_As_A_GuestUser_Monthly_SameBillingAddress"/>
+        <include name="PlanForChildrenFund_Donate_As_A_LoginUser_Monthly_SameBillingAddress"/>
+      </methods>
+    </classes>
+  </test>
+</suite>

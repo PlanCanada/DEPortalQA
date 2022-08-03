@@ -1,0 +1,40 @@
+ INFO | 2022-08-02 12:05:08,379 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-08-02 12:05:08,384 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_00_05_08_PM
+ INFO | 2022-08-02 12:05:08,384 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-08-02 12:05:08,733 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:05:08,734 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-08-02 12:05:08,971 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:05:08,973 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 12:05:09,369 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-08-02 12:05:09,371 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-08-02 12:05:09,373 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-08-02 12:05:09,375 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-08-02 12:05:09,376 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-08-02 12:05:09,380 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-08-02 12:05:09,381 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-08-02 12:05:09,383 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-08-02 12:05:09,384 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-08-02 12:05:09,387 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-08-02 12:05:09,387 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Element time out set
+ INFO | 2022-08-02 12:05:09,387 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  ##### Start of Test Case : Because I Am Girl Donate As A Guest User Monthly #####
+ INFO | 2022-08-02 12:05:09,387 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Test Case Name: BecauseIAmGirl_Donate_As_A_GuestUser_Monthly
+ INFO | 2022-08-02 12:05:09,389 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:05:09,390 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 12:05:09,527 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Test Data Set Name: BecauseIAmGirl_Donate_As_A_GuestUser_Monthly
+ INFO | 2022-08-02 12:05:09,530 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Execution Flag: Execute
+ INFO | 2022-08-02 12:05:09,531 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Test Data Set Name: BecauseIAmGirl_Donate_As_A_GuestUser_Monthly_28$_CreditCard_01
+ INFO | 2022-08-02 12:05:09,531 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Execution Flag: YES
+ INFO | 2022-08-02 12:05:09,547 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:05:14,367 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 12:05:14,368 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:05:14,369 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 12:05:42,998 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-08-02 12:07:07,208 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Unable to update the status for TestCase->BecauseIAmGirl_Donate_As_A_GuestUser_Monthly
+ INFO | 2022-08-02 12:07:07,549 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 12:07:07,551 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 12:07:07,552 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 12:07:28,679 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_00_05_08_PM/Results.html
+ERROR | 2022-08-02 12:07:28,679 | Common.java | 87 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  java.lang.NullPointerException
+ INFO | 2022-08-02 12:07:28,679 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  ###################################
+ INFO | 2022-08-02 12:07:28,679 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  Script Execution Complete
+ INFO | 2022-08-02 12:07:28,679 | Common.java | 79 | BecauseIAmGirl_Donate_As_A_GuestUser_Monthly:  ####################################

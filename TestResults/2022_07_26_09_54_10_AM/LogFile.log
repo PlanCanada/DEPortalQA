@@ -1,0 +1,103 @@
+ INFO | 2022-07-26 09:54:10,738 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-26 09:54:10,749 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_09_54_10_AM
+ INFO | 2022-07-26 09:54:10,750 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-26 09:54:15,429 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 09:54:15,433 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-26 09:54:16,071 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 09:54:16,078 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 09:54:17,209 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-26 09:54:17,212 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-26 09:54:17,215 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-26 09:54:17,218 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-26 09:54:17,221 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-26 09:54:17,243 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-26 09:54:17,248 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-26 09:54:17,252 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-26 09:54:17,257 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-26 09:54:17,267 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-26 09:54:17,268 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Element time out set
+ INFO | 2022-07-26 09:54:17,269 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  ##### Start of Test Case : Donate As A Login User Same Billing Address #####
+ INFO | 2022-07-26 09:54:17,272 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Test Case Name: Donate_As_A_LoginUser_OneTime_SameBillingAddress
+ INFO | 2022-07-26 09:54:17,277 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-26 09:54:17,283 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-26 09:54:17,608 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Test Data Set Name: Donate_As_A_LoginUser_OneTime_SameBillingAddress
+ INFO | 2022-07-26 09:54:17,609 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Execution Flag: Execute
+ INFO | 2022-07-26 09:54:17,610 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Test Data Set Name: Donate_As_A_LoginUser_OneTime_SameBillingAddress_01
+ INFO | 2022-07-26 09:54:17,611 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Execution Flag: YES
+ INFO | 2022-07-26 09:54:17,612 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Test Data Set Name: 
+ INFO | 2022-07-26 09:54:17,614 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Execution Flag: 
+ INFO | 2022-07-26 09:54:17,646 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 09:54:24,319 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 09:54:24,325 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-26 09:54:24,331 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-26 09:54:37,144 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 09:54:37,145 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-26 09:54:38,231 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on WebElement-login button
+ INFO | 2022-07-26 09:54:38,232 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on WebElement-login button
+ INFO | 2022-07-26 09:54:43,097 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on WebElement-login to my account
+ INFO | 2022-07-26 09:54:43,098 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on WebElement-login to my account
+ INFO | 2022-07-26 09:54:48,175 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on WebElement-login to my account plan
+ INFO | 2022-07-26 09:54:48,176 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on WebElement-login to my account plan
+ INFO | 2022-07-26 09:54:49,665 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> iamsantho@gmail.com
+ INFO | 2022-07-26 09:54:49,666 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> iamsantho@gmail.com
+ INFO | 2022-07-26 09:54:50,435 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> Bottle@1234
+ INFO | 2022-07-26 09:54:50,436 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Bottle@1234
+ INFO | 2022-07-26 09:54:51,173 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on WebElement-login with my plan credentials
+ INFO | 2022-07-26 09:54:51,173 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on WebElement-login with my plan credentials
+ INFO | 2022-07-26 09:55:06,268 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on WebElement-Donate button
+ INFO | 2022-07-26 09:55:06,268 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-07-26 09:55:11,463 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-26 09:55:11,464 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on Donate Type WebElement-One Time
+ INFO | 2022-07-26 09:55:11,611 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on Price Value WebElement-$25
+ INFO | 2022-07-26 09:55:11,612 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on Price Value WebElement-$25
+ INFO | 2022-07-26 09:55:23,307 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on Continue My Donatio WebElement
+ INFO | 2022-07-26 09:55:23,308 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on Continue My Donatio WebElement
+ INFO | 2022-07-26 09:55:25,351 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 09:55:25,352 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 09:55:26,559 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> test
+ INFO | 2022-07-26 09:55:26,560 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> test
+ INFO | 2022-07-26 09:55:27,380 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-26 09:55:27,380 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-07-26 09:55:28,650 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 09:55:28,650 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 09:55:29,956 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> Toronto
+ INFO | 2022-07-26 09:55:29,957 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-26 09:55:30,520 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-26 09:55:30,521 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-07-26 09:55:31,796 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> M4P 0B3
+ INFO | 2022-07-26 09:55:31,797 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-26 09:55:32,981 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> 18003871418
+ INFO | 2022-07-26 09:55:32,982 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-07-26 09:55:34,371 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> 4222222222222220
+ INFO | 2022-07-26 09:55:34,372 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-07-26 09:55:35,696 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 09:55:35,697 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-07-26 09:55:37,063 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> TestOne
+ INFO | 2022-07-26 09:55:37,064 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-07-26 09:55:38,247 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> 05/25
+ INFO | 2022-07-26 09:55:38,248 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 05/25
+ INFO | 2022-07-26 09:55:39,538 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> 987
+ INFO | 2022-07-26 09:55:39,539 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 987
+ INFO | 2022-07-26 09:55:40,935 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 09:55:40,935 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 09:55:42,234 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 09:55:42,235 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-07-26 09:55:43,533 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> Toronto
+ INFO | 2022-07-26 09:55:43,533 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-07-26 09:55:43,987 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Selected value -Ontario from dropdown->BillingProvince
+ INFO | 2022-07-26 09:55:43,988 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Selected value -Ontario from dropdown->BillingProvince
+ INFO | 2022-07-26 09:55:45,159 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Entered text -> M4P 0B3
+ INFO | 2022-07-26 09:55:45,160 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-07-26 09:55:47,624 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Clicked on WebElement-Donate Now
+ INFO | 2022-07-26 09:55:47,625 | Common.java | 75 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate Now
+ INFO | 2022-07-26 09:56:20,618 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of UpdateTestLinkStatus from Test Configuration file : Yes
+ INFO | 2022-07-26 09:57:45,054 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Unable to update the status for TestCase->Donate_As_A_LoginUser_OneTime_SameBillingAddress
+ INFO | 2022-07-26 09:57:45,056 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Unable to update the status for TestCase->Donate_As_A_LoginUser_OneTime_SameBillingAddress
+ INFO | 2022-07-26 09:57:45,751 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:57:45,753 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:57:45,755 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-07-26 09:58:07,035 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_09_54_10_AM/Results.html
+ INFO | 2022-07-26 09:58:07,036 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_07_26_09_54_10_AM/Results.html
+ INFO | 2022-07-26 09:58:07,037 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  ###################################
+ INFO | 2022-07-26 09:58:07,037 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  Script Execution Complete
+ INFO | 2022-07-26 09:58:07,037 | Common.java | 79 | Donate_As_A_LoginUser_OneTime_SameBillingAddress:  ####################################

@@ -1,0 +1,92 @@
+ INFO | 2022-08-02 12:41:30,496 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-08-02 12:41:30,500 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_00_41_30_PM
+ INFO | 2022-08-02 12:41:30,500 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-08-02 12:41:30,731 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:41:30,733 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-08-02 12:41:30,924 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:41:30,925 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 12:41:31,133 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-08-02 12:41:31,134 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-08-02 12:41:31,136 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-08-02 12:41:31,137 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-08-02 12:41:31,139 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-08-02 12:41:31,143 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-08-02 12:41:31,144 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-08-02 12:41:31,147 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-08-02 12:41:31,148 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-08-02 12:41:31,150 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-08-02 12:41:31,150 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Element time out set
+ INFO | 2022-08-02 12:41:31,150 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  ##### Start of Test Case : Because I Am Girl Donate As A Login User Monthly #####
+ INFO | 2022-08-02 12:41:31,151 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Case Name: Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress
+ INFO | 2022-08-02 12:41:31,152 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:41:31,153 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 12:41:31,218 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress
+ INFO | 2022-08-02 12:41:31,218 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: Execute
+ INFO | 2022-08-02 12:41:31,219 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress_01
+ INFO | 2022-08-02 12:41:31,219 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: YES
+ INFO | 2022-08-02 12:41:31,219 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: 
+ INFO | 2022-08-02 12:41:31,219 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: 
+ INFO | 2022-08-02 12:41:31,226 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:41:36,030 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 12:41:36,032 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:41:36,034 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 12:41:43,712 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-08-02 12:41:43,712 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-08-02 12:41:44,196 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login button
+ INFO | 2022-08-02 12:41:44,196 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login button
+ INFO | 2022-08-02 12:41:46,800 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login to my account
+ INFO | 2022-08-02 12:41:46,800 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login to my account
+ INFO | 2022-08-02 12:41:49,770 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login to my account plan
+ INFO | 2022-08-02 12:41:49,772 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login to my account plan
+ INFO | 2022-08-02 12:41:50,784 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> iamsantho@gmail.com
+ INFO | 2022-08-02 12:41:50,784 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> iamsantho@gmail.com
+ INFO | 2022-08-02 12:41:51,130 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Bottle@1234
+ INFO | 2022-08-02 12:41:51,131 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Bottle@1234
+ INFO | 2022-08-02 12:41:51,528 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login with my plan credentials
+ INFO | 2022-08-02 12:41:51,528 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login with my plan credentials
+ INFO | 2022-08-02 12:41:59,565 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-Donate button
+ INFO | 2022-08-02 12:41:59,566 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate button
+ERROR | 2022-08-02 12:42:04,636 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on Price Value WebElement is not displayed-$28
+ERROR | 2022-08-02 12:42:04,636 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on Price Value WebElement is not displayed-$28
+ INFO | 2022-08-02 12:42:04,637 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:42:14,630 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-08-02 12:42:14,632 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:14,633 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:14,635 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:14,637 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:19,828 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on Continue My Donatio WebElement
+ INFO | 2022-08-02 12:42:19,829 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on Continue My Donatio WebElement
+ERROR | 2022-08-02 12:42:19,896 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Element is not visible after waiting for 0 Seconds, : null
+ERROR | 2022-08-02 12:42:19,896 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Element is not visible after waiting for 0 Seconds, : null
+ INFO | 2022-08-02 12:42:19,900 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:42:29,624 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-08-02 12:42:29,625 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:29,626 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:29,628 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:29,630 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-08-02 12:42:31,788 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Element is not displayed, Unable to enter text->Test_Automation_GuestUser
+ERROR | 2022-08-02 12:42:31,789 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Element is not displayed, Unable to enter text->Test_Automation_GuestUser
+ INFO | 2022-08-02 12:42:31,790 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:42:42,015 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-08-02 12:42:42,017 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:42,020 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:42,022 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-08-02 12:42:42,024 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ERROR | 2022-08-02 12:42:42,105 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCILastName']'
+ERROR | 2022-08-02 12:42:42,106 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Element is not visible after waiting for 0 Seconds, : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='VPCILastName']'
+ INFO | 2022-08-02 12:42:42,107 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-08-02 12:42:49,523 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : java.lang.NullPointerException
+ERROR | 2022-08-02 12:42:49,563 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Unable to enter text in the text field->test
+ERROR | 2022-08-02 12:42:49,565 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Unable to enter text in the text field->test
+ INFO | 2022-08-02 12:42:49,581 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ERROR | 2022-08-02 12:42:49,609 | Common.java | 87 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WSPF1JWKYR', ip: '10.0.0.206', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\jassingh\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54478}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9609a00d3d7b1012a6c0659c8390a71c
+ INFO | 2022-08-02 12:42:50,304 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 12:42:50,305 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 12:42:50,306 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No

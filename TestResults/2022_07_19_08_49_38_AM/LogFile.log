@@ -1,0 +1,84 @@
+ INFO | 2022-07-19 08:49:38,793 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-19 08:49:38,796 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_19_08_49_38_AM
+ INFO | 2022-07-19 08:49:38,796 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-19 08:49:38,928 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:49:38,929 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-19 08:49:39,064 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:49:39,064 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-19 08:49:39,254 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-19 08:49:39,254 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-19 08:49:39,255 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-19 08:49:39,255 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-19 08:49:39,256 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-19 08:49:39,257 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-19 08:49:39,258 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-19 08:49:39,258 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-19 08:49:39,259 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-19 08:49:39,260 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-19 08:49:39,261 | Common.java | 79 | Donate_As_A_GuestUser:  Element time out set
+ INFO | 2022-07-19 08:49:39,261 | Common.java | 79 | Donate_As_A_GuestUser:  ##### Start of Test Case : Donate As A Guest User #####
+ INFO | 2022-07-19 08:49:39,261 | Common.java | 79 | Donate_As_A_GuestUser:  Test Case Name: Donate_As_A_GuestUser
+ INFO | 2022-07-19 08:49:39,261 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:49:39,262 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-19 08:49:39,289 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser
+ INFO | 2022-07-19 08:49:39,290 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: Execute
+ INFO | 2022-07-19 08:49:39,290 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser_01
+ INFO | 2022-07-19 08:49:39,290 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-07-19 08:49:39,290 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser_02
+ INFO | 2022-07-19 08:49:39,291 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: NO
+ INFO | 2022-07-19 08:49:39,291 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: 
+ INFO | 2022-07-19 08:49:39,291 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: 
+ INFO | 2022-07-19 08:49:39,297 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-19 08:49:41,057 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-19 08:49:41,058 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-19 08:49:41,059 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-19 08:49:52,941 | Common.java | 79 | Donate_As_A_GuestUser:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-19 08:49:52,942 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ERROR | 2022-07-19 08:49:55,225 | Common.java | 87 | Donate_As_A_GuestUser:  Uanble to click on Element-Donate button, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-01G78BAR', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61905}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1bf6f83f38fa405a244b47afb52bbdbb
+ERROR | 2022-07-19 08:49:55,226 | Common.java | 87 | Donate_As_A_GuestUser:  Report step generation success : Uanble to click on Element-Donate button, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-01G78BAR', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61905}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1bf6f83f38fa405a244b47afb52bbdbb
+ INFO | 2022-07-19 08:49:55,227 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-19 08:50:02,651 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-19 08:50:02,651 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-19 08:50:02,652 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-19 08:50:02,652 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-19 08:50:02,652 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-19 08:50:24,660 | Common.java | 79 | Donate_As_A_GuestUser:  Clicked on WebElement-One Time
+ INFO | 2022-07-19 08:50:24,661 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Clicked on WebElement-One Time
+ INFO | 2022-07-19 08:50:44,602 | Common.java | 79 | Donate_As_A_GuestUser:  Clicked on WebElement-Price $25
+ INFO | 2022-07-19 08:50:44,603 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Clicked on WebElement-Price $25
+ERROR | 2022-07-19 08:51:02,343 | Common.java | 87 | Donate_As_A_GuestUser:  Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-01G78BAR', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61905}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1bf6f83f38fa405a244b47afb52bbdbb
+ERROR | 2022-07-19 08:51:02,345 | Common.java | 87 | Donate_As_A_GuestUser:  Report step generation success : Uanble to click on Element-Continue My Donation, Exception is->unknown error: cannot determine loading status
+from unknown error: unexpected command response
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-01G78BAR', ip: '192.168.0.165', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61905}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1bf6f83f38fa405a244b47afb52bbdbb
+ INFO | 2022-07-19 08:51:02,348 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-19 08:51:37,621 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2022-07-19 08:51:37,623 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-19 08:51:37,626 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-19 08:51:37,629 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0
+ INFO | 2022-07-19 08:51:37,630 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of OverideTimeoutOnFailure from Test Configuration file : 0

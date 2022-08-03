@@ -1,0 +1,41 @@
+ INFO | 2022-07-19 08:45:38,704 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-07-19 08:45:38,707 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\user\Desktop\Vikram\PlanCanada_old\TestResults\2022_07_19_08_45_38_AM
+ INFO | 2022-07-19 08:45:38,707 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-07-19 08:45:38,838 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:45:38,838 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-07-19 08:45:39,030 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:45:39,031 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-19 08:45:39,220 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-07-19 08:45:39,221 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-07-19 08:45:39,221 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-07-19 08:45:39,222 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-07-19 08:45:39,222 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-07-19 08:45:39,224 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-07-19 08:45:39,225 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-07-19 08:45:39,225 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-07-19 08:45:39,225 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-07-19 08:45:39,227 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-07-19 08:45:39,227 | Common.java | 79 | Donate_As_A_GuestUser:  Element time out set
+ INFO | 2022-07-19 08:45:39,227 | Common.java | 79 | Donate_As_A_GuestUser:  ##### Start of Test Case : Donate As A Guest User #####
+ INFO | 2022-07-19 08:45:39,227 | Common.java | 79 | Donate_As_A_GuestUser:  Test Case Name: Donate_As_A_GuestUser
+ INFO | 2022-07-19 08:45:39,228 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-07-19 08:45:39,229 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-07-19 08:45:39,257 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser
+ INFO | 2022-07-19 08:45:39,258 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: Execute
+ INFO | 2022-07-19 08:45:39,258 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser_01
+ INFO | 2022-07-19 08:45:39,258 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: YES
+ INFO | 2022-07-19 08:45:39,258 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: Donate_As_A_GuestUser_02
+ INFO | 2022-07-19 08:45:39,259 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: NO
+ INFO | 2022-07-19 08:45:39,259 | Common.java | 79 | Donate_As_A_GuestUser:  Test Data Set Name: 
+ INFO | 2022-07-19 08:45:39,259 | Common.java | 79 | Donate_As_A_GuestUser:  Execution Flag: 
+ INFO | 2022-07-19 08:45:39,265 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-19 08:45:40,730 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-19 08:45:40,730 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-07-19 08:45:40,731 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-07-19 08:45:55,852 | Common.java | 79 | Donate_As_A_GuestUser:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-19 08:45:55,853 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-07-19 08:45:58,100 | Common.java | 79 | Donate_As_A_GuestUser:  Clicked on WebElement-Donate button
+ INFO | 2022-07-19 08:45:58,101 | Common.java | 75 | Donate_As_A_GuestUser:  Report step generation success : Clicked on WebElement-Donate button
+ERROR | 2022-07-19 08:46:13,618 | Common.java | 87 | Donate_As_A_GuestUser:  'DonateType' label not found row no-->1 column no-->25
+ERROR | 2022-07-19 08:46:13,626 | Common.java | 87 | Donate_As_A_GuestUser:  Report step generation success : 'DonateType' label not found row no-->1 column no-->25
+ INFO | 2022-07-19 08:46:13,643 | Common.java | 79 | Donate_As_A_GuestUser:  Getting value of Browser from Test Configuration file : Chrome

@@ -1,0 +1,92 @@
+ INFO | 2022-08-02 12:45:00,257 | Common.java | 79 | null:  Startup activites...
+ INFO | 2022-08-02 12:45:00,260 | Common.java | 79 | null:  Test Output Directory creation successful :C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_00_45_00_PM
+ INFO | 2022-08-02 12:45:00,260 | Common.java | 79 | null:  Log File creation successful : LogFile.log
+ INFO | 2022-08-02 12:45:00,519 | Common.java | 79 | null:  Getting value of TestCaseSettingSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:45:00,520 | Common.java | 79 | null:  Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/test/resources/TestCaseSettings.xls
+ INFO | 2022-08-02 12:45:00,824 | Common.java | 79 | null:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:45:00,826 | Common.java | 79 | null:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 12:45:01,085 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ElementLoadWaitTime from Test Configuration file : 120
+ INFO | 2022-08-02 12:45:01,087 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TextLoadWaitTime from Test Configuration file : 10
+ INFO | 2022-08-02 12:45:01,088 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of PageLoadWaitTime from Test Configuration file : 180
+ INFO | 2022-08-02 12:45:01,089 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of ImplicitlyWaitTime from Test Configuration file : 30
+ INFO | 2022-08-02 12:45:01,090 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Server_url from Test Configuration file : http://192.168.80.247/testlink/lib/api/xmlrpc/v1/xmlrpc.php
+ INFO | 2022-08-02 12:45:01,094 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Dev_key from Test Configuration file : f8f80ad8ea180f0783bc74555cf948f0
+ INFO | 2022-08-02 12:45:01,096 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Project_Name from Test Configuration file : Sample
+ INFO | 2022-08-02 12:45:01,097 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Plan_Name from Test Configuration file : Testplan
+ INFO | 2022-08-02 12:45:01,098 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Build_Name from Test Configuration file : Build
+ INFO | 2022-08-02 12:45:01,100 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestSuiteNum from Test Configuration file : 4
+ INFO | 2022-08-02 12:45:01,100 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Element time out set
+ INFO | 2022-08-02 12:45:01,100 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  ##### Start of Test Case : Because I Am Girl Donate As A Login User Monthly #####
+ INFO | 2022-08-02 12:45:01,101 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Case Name: Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress
+ INFO | 2022-08-02 12:45:01,102 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestDataSheetNumber from Test Configuration file : 1
+ INFO | 2022-08-02 12:45:01,103 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of TestDataFile from Test Configuration file : .\src\test\resources\TestData.xls
+ INFO | 2022-08-02 12:45:01,174 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress
+ INFO | 2022-08-02 12:45:01,175 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: Execute
+ INFO | 2022-08-02 12:45:01,175 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress_01
+ INFO | 2022-08-02 12:45:01,176 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: YES
+ INFO | 2022-08-02 12:45:01,176 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Test Data Set Name: 
+ INFO | 2022-08-02 12:45:01,176 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Execution Flag: 
+ INFO | 2022-08-02 12:45:01,190 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:45:05,599 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 12:45:05,601 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of Browser from Test Configuration file : Chrome
+ INFO | 2022-08-02 12:45:05,602 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of url from Test Configuration file : https://plancanada.net/
+ INFO | 2022-08-02 12:45:12,658 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Opened Application Successfully and Maximize The Browser
+ INFO | 2022-08-02 12:45:12,658 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Opened Application Successfully and Maximize The Browser
+ INFO | 2022-08-02 12:45:13,120 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login button
+ INFO | 2022-08-02 12:45:13,120 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login button
+ INFO | 2022-08-02 12:45:15,803 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login to my account
+ INFO | 2022-08-02 12:45:15,804 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login to my account
+ INFO | 2022-08-02 12:45:18,038 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login to my account plan
+ INFO | 2022-08-02 12:45:18,040 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login to my account plan
+ INFO | 2022-08-02 12:45:19,011 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> iamsantho@gmail.com
+ INFO | 2022-08-02 12:45:19,011 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> iamsantho@gmail.com
+ INFO | 2022-08-02 12:45:19,371 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Bottle@1234
+ INFO | 2022-08-02 12:45:19,371 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Bottle@1234
+ INFO | 2022-08-02 12:45:19,738 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-login with my plan credentials
+ INFO | 2022-08-02 12:45:19,739 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-login with my plan credentials
+ INFO | 2022-08-02 12:45:27,443 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-Donate button
+ INFO | 2022-08-02 12:45:27,444 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate button
+ INFO | 2022-08-02 12:45:35,322 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on Donate Type WebElement-Because I am a Girl
+ INFO | 2022-08-02 12:45:35,323 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on Donate Type WebElement-Because I am a Girl
+ INFO | 2022-08-02 12:45:40,453 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on Price Value WebElement-$28
+ INFO | 2022-08-02 12:45:40,454 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on Price Value WebElement-$28
+ INFO | 2022-08-02 12:45:49,562 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on Continue My Donatio WebElement
+ INFO | 2022-08-02 12:45:49,562 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on Continue My Donatio WebElement
+ INFO | 2022-08-02 12:45:50,289 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-08-02 12:45:50,290 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-08-02 12:45:50,770 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> test
+ INFO | 2022-08-02 12:45:50,770 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> test
+ INFO | 2022-08-02 12:45:51,277 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-08-02 12:45:51,278 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> JasSingh@planCanada.ca
+ INFO | 2022-08-02 12:45:51,757 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 245 Eglinton Ave E
+ INFO | 2022-08-02 12:45:51,758 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 245 Eglinton Ave E
+ INFO | 2022-08-02 12:45:52,269 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Toronto
+ INFO | 2022-08-02 12:45:52,271 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Toronto
+ INFO | 2022-08-02 12:45:52,485 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Selected value -Ontario from dropdown->Province
+ INFO | 2022-08-02 12:45:52,485 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Selected value -Ontario from dropdown->Province
+ INFO | 2022-08-02 12:45:52,968 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> M4P 0B3
+ INFO | 2022-08-02 12:45:52,968 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> M4P 0B3
+ INFO | 2022-08-02 12:45:53,454 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 18003871418
+ INFO | 2022-08-02 12:45:53,455 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 18003871418
+ INFO | 2022-08-02 12:45:54,006 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 4222222222222220
+ INFO | 2022-08-02 12:45:54,007 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 4222222222222220
+ INFO | 2022-08-02 12:45:54,582 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> Test_Automation_GuestUser
+ INFO | 2022-08-02 12:45:54,583 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> Test_Automation_GuestUser
+ INFO | 2022-08-02 12:45:55,069 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> TestOne
+ INFO | 2022-08-02 12:45:55,070 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> TestOne
+ INFO | 2022-08-02 12:45:55,533 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 05/25
+ INFO | 2022-08-02 12:45:55,534 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 05/25
+ INFO | 2022-08-02 12:45:56,012 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Entered text -> 987
+ INFO | 2022-08-02 12:45:56,013 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Entered text -> 987
+ INFO | 2022-08-02 12:45:56,576 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-Same As contact Address
+ INFO | 2022-08-02 12:45:56,577 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-Same As contact Address
+ INFO | 2022-08-02 12:45:57,533 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Clicked on WebElement-Donate Now
+ INFO | 2022-08-02 12:45:57,536 | Common.java | 75 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Clicked on WebElement-Donate Now
+ INFO | 2022-08-02 12:46:27,946 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of SendMail(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 12:46:27,947 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of SendMsg(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 12:46:27,948 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Getting value of VoiceCall(Yes/No) from Test Configuration file : No
+ INFO | 2022-08-02 12:46:49,079 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_00_45_00_PM/Results.html
+ INFO | 2022-08-02 12:46:49,080 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Report step generation success : Unable to attach the file to TestLink in following path->C:\Users\jassingh\OneDrive - Plan International Canada\Desktop\TestAutomation\PlanCanada\TestResults\2022_08_02_00_45_00_PM/Results.html
+ INFO | 2022-08-02 12:46:49,080 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  ###################################
+ INFO | 2022-08-02 12:46:49,080 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  Script Execution Complete
+ INFO | 2022-08-02 12:46:49,080 | Common.java | 79 | Because_I_Am_Girl_Donate_As_A_LoginUser_Monthly_SameBillingAddress:  ####################################
